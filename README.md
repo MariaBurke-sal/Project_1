@@ -1,2 +1,1 @@
-# Project_1
-Swiggy Analysis Powerbi
+# Swiggy Analysis Project 1
